@@ -30,7 +30,7 @@ All you need is a modern web browser! 🖥️
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/YoussefGaafar/Calculator-WebApp.git
    cd calculator-app
    
 2. **Run the app**:
